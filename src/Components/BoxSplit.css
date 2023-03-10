@@ -1,0 +1,18 @@
+.container {
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  .box {
+    width: 200px;
+    height: 200px;
+    background-color: #b2bec3;
+    border:indigo;
+  }
+  
+  .sub-box {
+    flex: 1;
+    background-color: #dfe6e9;
+  }
